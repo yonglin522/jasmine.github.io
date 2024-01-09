@@ -215,4 +215,8 @@ height:60px;
   top:50%;
 }
 
+.locate{
+  position: relative;
+  left:550px;
+}
 
